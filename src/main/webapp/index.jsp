@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Sensei Tech</title>
+    <title>i Tech</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <header>
-    <h1>Sensei</h1>
+    <h1>IPhone</h1>
     <nav>
         <a href="#">Home</a>
         <a href="#">Products</a>
@@ -29,17 +29,17 @@
         <p>Ultra-light. Ultra-fast.</p>
     </div>
     <div class="card">
-        <h3>SenseiPhone</h3>
+        <h3>iPhone</h3>
         <p>Pure performance.</p>
     </div>
     <div class="card">
-        <h3>SenseiWatch</h3>
+        <h3>iWatch</h3>
         <p>Time, perfected.</p>
     </div>
 </section>
 
 <footer>
-    <p>© 2026 Sensei Inc. All rights reserved.</p>
+    <p>© 2026  Inc. All rights reserved.</p>
 </footer>
 
 <script src="script.js"></script>
