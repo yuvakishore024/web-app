@@ -25,7 +25,7 @@
 
 <section class="product">
     <div class="card">
-        <h3>SenseiBook</h3>
+        <h3>iBook</h3>
         <p>Ultra-light. Ultra-fast.</p>
     </div>
     <div class="card">
