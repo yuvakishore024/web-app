@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sensei</groupId>
-    <artifactId>apple-style-site</artifactId>
+    <artifactId>site</artifactId>
     <version>1.0.0</version>
     <packaging>war</packaging>
 
