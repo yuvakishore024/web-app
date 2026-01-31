@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>i Tech</title>
+    <title>Sensei Tech</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <header>
-    <h1>IPhone</h1>
+    <h1>Sensei</h1>
     <nav>
         <a href="#">Home</a>
         <a href="#">Products</a>
@@ -19,27 +19,41 @@
 
 <section class="hero">
     <h2>Think Different.</h2>
-    <p>Clean. Simple. Powerful.</p>
+    <p>Experience the future in 3D.</p>
     <button>Explore</button>
 </section>
 
 <section class="product">
-    <div class="card">
-        <h3>iBook</h3>
-        <p>Ultra-light. Ultra-fast.</p>
+    <!-- Mobile 1 -->
+    <div class="card tilt">
+        <div class="phone">
+            <div class="screen"></div>
+        </div>
+        <h3>SenseiPhone X</h3>
+        <p>Edge-to-edge brilliance.</p>
     </div>
-    <div class="card">
-        <h3>iPhone</h3>
-        <p>Pure performance.</p>
+
+    <!-- Mobile 2 -->
+    <div class="card tilt">
+        <div class="phone silver">
+            <div class="screen"></div>
+        </div>
+        <h3>SenseiPhone Pro</h3>
+        <p>Power meets elegance.</p>
     </div>
-    <div class="card">
-        <h3>iWatch</h3>
-        <p>Time, perfected.</p>
+
+    <!-- Mobile 3 -->
+    <div class="card tilt">
+        <div class="phone dark">
+            <div class="screen"></div>
+        </div>
+        <h3>SenseiPhone Ultra</h3>
+        <p>Future-ready design.</p>
     </div>
 </section>
 
 <footer>
-    <p>© 2026  Inc. All rights reserved.</p>
+    <p>© 2026 Sensei Inc. All rights reserved.</p>
 </footer>
 
 <script src="script.js"></script>
