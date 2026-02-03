@@ -13,7 +13,7 @@
     <name>Apple Style Static Website</name>
 
     <build>
-        <finalName>apple-style-site</finalName>
+       
         <plugins>
             <!-- Compiler plugin -->
             <plugin>
